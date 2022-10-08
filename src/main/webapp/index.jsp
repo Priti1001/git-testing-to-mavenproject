@@ -1,5 +1,9 @@
 <html>
 <body>
-<h4>Updated again - This is index.jsp file for java-tomcat-sample context path-1</h4>
+<h2>Enter Employee Name to find in DB!</h2>
+	<form action="getUser">
+		<input type="text" name="emp_no">
+		<input type="submit">
+	</form>
 </body>
 </html>
